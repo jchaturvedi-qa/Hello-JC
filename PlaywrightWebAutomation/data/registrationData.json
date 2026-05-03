@@ -1,0 +1,16 @@
+{
+  "validUser": {
+    "name": "John Doe",
+    "email": "johndoe.testautomation@example.com",
+    "password": "SecurePassword123!",
+    "mobile": "9876543210",
+    "workStatus": "fresher"
+  },
+  "invalidUserEmail": {
+    "name": "Jane Doe",
+    "email": "invalid-email-format",
+    "password": "SecurePassword123!",
+    "mobile": "9876543210",
+    "workStatus": "experienced"
+  }
+}
